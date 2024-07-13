@@ -1,0 +1,13 @@
+steps to commit any code:
+1. git add .
+2. git commit -m "message"
+3. git push origin master
+
+steps to merge two branches
+1. git checkout branch1
+2. git merge branch2
+
+steps to merge a branch to main
+1. git checkout main
+2. git merge branch1
+
